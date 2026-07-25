@@ -1,6 +1,6 @@
 # Sample Interaction
 
-This is the screenshot of a sample interaction done with Claude Code
+*This is the screenshot of a sample interaction done with Claude Code*
 
 
 
