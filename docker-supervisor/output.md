@@ -49,6 +49,7 @@ It should now be running. Let me know if you need me to check its logs or if the
 **❯ show me the logs of the my-redis container**
 
   Thought for 49s, called container-supervisor
+
 The logs indicate that the my-redis container started
 Here is a summary of what the logs show:
 1. Module Loading: The container successfully loaded isSearch) and timeseries (RedisTimeSeries), and ReJSON.
