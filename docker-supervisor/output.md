@@ -1,5 +1,6 @@
 # Sample Interaction
 This is the screenshot of a sample interaction done with Claude Code
+---
 
 
 **❯ /model**
